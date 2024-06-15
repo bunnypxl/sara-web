@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 04 Jun 2024 13:41:36 at https://www.fortworthbarbershop.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.fortworthbarbershop.com/ -O1 "C:\ranil and sam website\bang bang\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:44:09	Error: 	"Bad Request" (400) at link https://www.fortworthbarbershop.com/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fopen.spotify.com%2Fembed%2Fplaylist%2F1MVygY2E4W49aa4skx90fa%3Futm_source%3Doembed&display_name=Spotify&url=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F1MVygY2E4W49aa4skx90fa&image=https%3A%2F%2Fmosaic.scdn.co%2F300%2Fab67616d00001e02537ebc1940f248ab6f1b42f3ab67616d00001e025873884696b33b0ab343fb69ab67616d00001e027324c499774ceada8f334820ab67616d00001e02f0bf2299b256e52965a93cb0&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=spotify\%22 (from https://www.fortworthbarbershop.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 41 seconds : 61 links scanned, 59 files written (11741357 bytes overall) [4168039 bytes received at 25888 bytes/sec], 9690021 bytes transferred using HTTP compression in 23 files, ratio 20%, 2.0 requests per connection
+(1 errors, 0 warnings, 0 messages)
